@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.tlog
+Crypto.RSA.Cpp/Debug/vc120.pdb
+*.idb
+Crypto.RSA.Cpp/Debug/RSA.obj
